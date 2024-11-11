@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.parent{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;    
+    gap: 20px;
+    justify-content: center;
+}
+.parent img{
+    width: 30%;
+}
